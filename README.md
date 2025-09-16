@@ -1,1 +1,3 @@
-# dashboard-ui-mockup-design-134604
+# Project Repository
+
+This is the initial README file for the project.
